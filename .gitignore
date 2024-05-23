@@ -9,7 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build directories
-dist/
 build/
 
 # Other files and directories to ignore
